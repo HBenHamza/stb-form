@@ -1,0 +1,47 @@
+{
+    "form_client": [
+        {
+            "id": 1,
+            "texte": "\u00cates-vous satisfait de l\u2019accueil en agence ?",
+            "choix": [
+                "\u00cates-vous satisfait de l\u2019accueil en agence ?"
+            ]
+        },
+        {
+            "id": 2,
+            "texte": "Le service en ligne est-il efficace ?",
+            "choix": [
+                "Oui",
+                "Non"
+            ]
+        },
+        {
+            "id": 3,
+            "texte": "Quelles sont les qualit\u00e9s du personnel ?",
+            "choix": [
+                "Amabilit\u00e9",
+                "Efficacit\u00e9",
+                "Disponibilit\u00e9",
+                "Autre"
+            ]
+        }
+    ],
+    "form_employe": [
+        {
+            "id": 11,
+            "texte": "Le syst\u00e8me informatique r\u00e9pond-il \u00e0 vos besoins ?",
+            "choix": [
+                "Oui",
+                "Non"
+            ]
+        },
+        {
+            "id": 12,
+            "texte": "\u00cates-vous satisfait des formations propos\u00e9es ?",
+            "choix": [
+                "Oui",
+                "Non"
+            ]
+        }
+    ]
+}

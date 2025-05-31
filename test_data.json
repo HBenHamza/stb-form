@@ -1,0 +1,16 @@
+{
+  "client": [
+    {"1": ["Oui"], "2": ["Oui"], "3": ["Amabilité", "Efficacité"]},
+    {"1": ["Non"], "2": ["Non"], "3": ["Disponibilité"]},
+    {"1": ["Oui"], "2": ["Oui"], "3": ["Amabilité", "Disponibilité", "Autre"]},
+    {"1": ["Non"], "2": ["Oui"], "3": ["Efficacité"]},
+    {"1": ["Oui"], "2": ["Non"], "3": ["Amabilité", "Autre"]}
+  ],
+  "employe": [
+    {"11": ["Oui"], "12": ["Non"]},
+    {"11": ["Oui"], "12": ["Oui"]},
+    {"11": ["Non"], "12": ["Non"]},
+    {"11": ["Oui"], "12": ["Oui"]},
+    {"11": ["Non"], "12": ["Oui"]}
+  ]
+}
